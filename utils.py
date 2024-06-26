@@ -701,7 +701,6 @@ def get_dtw(x, y, title, pre):
     plt.savefig(f"{pre}{title}_dtw.png")
     return d.distance
     
-
 def get_pearson_corr(x, y):
     x = np.array(x)
     y = np.array(y)

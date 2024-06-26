@@ -1,2 +1,0 @@
-,start_idx,end_idx,walking_direction_lag,walking_direction_base_corr,walking_direction_lagged_corr,walking_direction_dtw,speeds_lag,speeds_base_corr,speeds_lagged_corr,speeds_dtw,mean_distance,mean_speed_difference,mean_walking_direction_difference,mean_pace_asymmetry
-0,219,266,-5,0.41175861318746826,0.613506660832956,27.713524556560554,-3,0.5096555800026817,0.6208509244046042,29.351548394232264,1.906230546420519,0.4267872340425532,56.1842551499285,0.5032765697969185
